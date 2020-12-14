@@ -1,0 +1,5 @@
+E:\CTestCode\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe.config
+E:\CTestCode\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe
+E:\CTestCode\FlyWeight\FlyWeight\bin\Debug\FlyWeight.pdb
+E:\CTestCode\FlyWeight\FlyWeight\obj\Debug\FlyWeight.exe
+E:\CTestCode\FlyWeight\FlyWeight\obj\Debug\FlyWeight.pdb
