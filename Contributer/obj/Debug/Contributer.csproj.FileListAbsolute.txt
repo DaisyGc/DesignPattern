@@ -1,0 +1,5 @@
+E:\CTestCode\Contributer\Contributer\bin\Debug\Contributer.exe.config
+E:\CTestCode\Contributer\Contributer\bin\Debug\Contributer.exe
+E:\CTestCode\Contributer\Contributer\bin\Debug\Contributer.pdb
+E:\CTestCode\Contributer\Contributer\obj\Debug\Contributer.exe
+E:\CTestCode\Contributer\Contributer\obj\Debug\Contributer.pdb
