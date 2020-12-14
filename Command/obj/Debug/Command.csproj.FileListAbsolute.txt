@@ -1,0 +1,5 @@
+E:\CTestCode\Command\Command\bin\Debug\Command.exe.config
+E:\CTestCode\Command\Command\bin\Debug\Command.exe
+E:\CTestCode\Command\Command\bin\Debug\Command.pdb
+E:\CTestCode\Command\Command\obj\Debug\Command.exe
+E:\CTestCode\Command\Command\obj\Debug\Command.pdb
