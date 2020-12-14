@@ -1,0 +1,5 @@
+E:\CTestCode\Factory\Factory\bin\Debug\Factory.exe.config
+E:\CTestCode\Factory\Factory\bin\Debug\Factory.exe
+E:\CTestCode\Factory\Factory\bin\Debug\Factory.pdb
+E:\CTestCode\Factory\Factory\obj\Debug\Factory.exe
+E:\CTestCode\Factory\Factory\obj\Debug\Factory.pdb
